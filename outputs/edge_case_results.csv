@@ -1,0 +1,11 @@
+Edge Case,Prediction,Churn_Probability,Retain_Probability,Tenure,Complaints,Service_Calls,Usage,Monthly_Charges
+Brand New Customer (Tenure=0),CHURN,0.7,0.3,0,0,0,100.0,50.0
+Maximum Complaints (7),CHURN,0.96,0.04,12,7,3,150.0,80.0
+Extremely High Usage (500),RETAIN,0.22,0.78,24,0,1,500.0,60.0
+Zero Usage,CHURN,0.87,0.13,6,2,4,0.0,100.0
+Long-Term Loyal (Tenure=72),RETAIN,0.335,0.665,72,0,0,300.0,70.0
+Maximum Monthly Charges (120),CHURN,0.9,0.1,10,3,5,80.0,120.0
+Extreme Service Calls (9),CHURN,0.94,0.06,8,4,9,120.0,90.0
+Perfect Customer,RETAIN,0.2425,0.7575,60,0,0,350.0,50.0
+Worst Case (All negative),CHURN,0.925,0.075,1,7,9,10.0,120.0
+Minimum Age (18),RETAIN,0.4175,0.5825,15,1,2,200.0,75.0
