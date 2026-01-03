@@ -21,7 +21,7 @@ Customer churn prediction is a critical business problem where identifying at-ri
 
 ### Pipeline Overview
 
-```
+
 ```
 ┌─────────────────────┐
 │  Data Generation    │
@@ -55,7 +55,7 @@ Customer churn prediction is a critical business problem where identifying at-ri
 │  • ROC-AUC          │
 │  • Feature Ranking  │
 └─────────────────────┘
-```
+
 ```
 
 ### Technical Stack
